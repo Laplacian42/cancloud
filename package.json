@@ -133,7 +133,7 @@
     "url": "*",
     "uuid":"*",
     "xml-js": "*",
-    "xml2js": "*",
+    "xml2js": "*"
   },
   "eslintConfig": {
     "env": {
